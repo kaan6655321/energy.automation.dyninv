@@ -1,9 +1,17 @@
 ---
-site1:
-  - server1 
-  - server3
-site2:
-  - server2
-  - server4
+web:
+    site1:
+        - web1
+        - web2
+    site2:
+        - web3
+        - web4
+db:
+    site1:
+        - db1
+        - db2
+    site2:
+        - db3
+        - db4
 ```
 
