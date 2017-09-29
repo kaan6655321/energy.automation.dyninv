@@ -1,0 +1,9 @@
+---
+site1:
+  - server1 
+  - server3
+site2:
+  - server2
+  - server4
+```
+
